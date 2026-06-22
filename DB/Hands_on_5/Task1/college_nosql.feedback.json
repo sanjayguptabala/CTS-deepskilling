@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f92"
+  },
+  "student_id": 1,
+  "course_code": "CS101",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Excellent teaching and layout. Would highly recommend.",
+  "tags": [
+    "well-structured",
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2022-11-30T10:15:00.000Z"
+  },
+  "attachments": [
+    {
+      "filename": "notes.pdf",
+      "size_kb": 240
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f93"
+  },
+  "student_id": 2,
+  "course_code": "CS101",
+  "semester": "2022-ODD",
+  "rating": 4,
+  "comments": "Assignments were quite tough but highly rewarding.",
+  "tags": [
+    "challenging",
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2022-11-28T09:00:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f94"
+  },
+  "student_id": 5,
+  "course_code": "CS101",
+  "semester": "2022-ODD",
+  "rating": 2,
+  "comments": "Pacing was too fast and coding templates were hard to follow.",
+  "tags": [
+    "challenging"
+  ],
+  "submitted_at": {
+    "$date": "2022-12-01T14:20:00.000Z"
+  },
+  "attachments": [
+    {
+      "filename": "lab_error.png",
+      "size_kb": 105
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f95"
+  },
+  "student_id": 1,
+  "course_code": "CS102",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Loved the database management query design sections completely.",
+  "tags": [
+    "well-structured"
+  ],
+  "submitted_at": {
+    "$date": "2022-11-29T11:00:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f96"
+  },
+  "student_id": 3,
+  "course_code": "CS102",
+  "semester": "2022-ODD",
+  "rating": 3,
+  "comments": "Decent introductory framework, though lab machines were slow.",
+  "tags": [
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2022-11-25T16:45:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f97"
+  },
+  "student_id": 4,
+  "course_code": "EC101",
+  "semester": "2021-EVEN",
+  "rating": 4,
+  "comments": "Circuit analysis was broken down exceptionally well.",
+  "tags": [
+    "well-structured",
+    "practical"
+  ],
+  "submitted_at": {
+    "$date": "2021-05-15T10:00:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f98"
+  },
+  "student_id": 6,
+  "course_code": "EC101",
+  "semester": "2021-EVEN",
+  "rating": 5,
+  "comments": "Brilliant conceptual explanations by the lab professor.",
+  "tags": [
+    "well-structured"
+  ],
+  "submitted_at": {
+    "$date": "2021-05-18T12:30:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f99"
+  },
+  "student_id": 6,
+  "course_code": "ME101",
+  "semester": "2023-ODD",
+  "rating": 4,
+  "comments": "Solid visualizations provided during thermodynamic lectures.",
+  "tags": [
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2023-11-20T08:15:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f9a"
+  },
+  "student_id": 7,
+  "course_code": "CS103",
+  "semester": "2022-ODD",
+  "rating": 1,
+  "comments": "Grading scheme is incredibly strict and unforgiving.",
+  "tags": [
+    "challenging"
+  ],
+  "submitted_at": {
+    "$date": "2022-12-02T10:00:00.000Z"
+  },
+  "attachments": []
+},
+{
+  "_id": {
+    "$oid": "6a38da876e6c3b1fc78b3f9b"
+  },
+  "student_id": 8,
+  "course_code": "CS102",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Amazing coverage of advanced data indices structures.",
+  "tags": [
+    "well-structured"
+  ]
+}]
